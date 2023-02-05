@@ -1,1 +1,4 @@
-theme: jekyll-theme-hacker
+remote_theme: molayadev/jekyll-theme-console
+theme: jekyll-theme-console
+
+style: hacker # dark (default), light or hacker
